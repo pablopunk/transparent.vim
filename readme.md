@@ -1,6 +1,6 @@
 # Transparent vim
 
-Make your vim transparent to match it with your transparent terminal.
+Make your vim match your transparent terminal.
 
 ## Install
 
