@@ -6,3 +6,5 @@ function! RemoveBackgroundColor() abort
 endfunction
 
 autocmd ColorScheme * silent call RemoveBackgroundColor()
+
+RemoveBackgroundColor()
