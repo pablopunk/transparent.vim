@@ -7,4 +7,4 @@ endfunction
 
 autocmd ColorScheme * silent call RemoveBackgroundColor()
 
-RemoveBackgroundColor()
+call RemoveBackgroundColor()
